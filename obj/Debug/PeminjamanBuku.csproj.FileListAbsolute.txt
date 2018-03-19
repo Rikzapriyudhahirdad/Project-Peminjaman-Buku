@@ -1,0 +1,38 @@
+F:\AKADEMIK\KULIAH\SEMESTER V\Pengenalan Platform Khusus V-Pak Faishal Al Huda\Koding\PeminjamanBuku\PeminjamanBuku\bin\Debug\PeminjamanBuku.exe.config
+F:\AKADEMIK\KULIAH\SEMESTER V\Pengenalan Platform Khusus V-Pak Faishal Al Huda\Koding\PeminjamanBuku\PeminjamanBuku\bin\Debug\PeminjamanBuku.exe
+F:\AKADEMIK\KULIAH\SEMESTER V\Pengenalan Platform Khusus V-Pak Faishal Al Huda\Koding\PeminjamanBuku\PeminjamanBuku\bin\Debug\PeminjamanBuku.pdb
+F:\AKADEMIK\KULIAH\SEMESTER V\Pengenalan Platform Khusus V-Pak Faishal Al Huda\Koding\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.csprojResolveAssemblyReference.cache
+F:\AKADEMIK\KULIAH\SEMESTER V\Pengenalan Platform Khusus V-Pak Faishal Al Huda\Koding\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.Properties.Resources.resources
+F:\AKADEMIK\KULIAH\SEMESTER V\Pengenalan Platform Khusus V-Pak Faishal Al Huda\Koding\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.csproj.GenerateResource.Cache
+F:\AKADEMIK\KULIAH\SEMESTER V\Pengenalan Platform Khusus V-Pak Faishal Al Huda\Koding\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.csproj.CoreCompileInputs.cache
+F:\AKADEMIK\KULIAH\SEMESTER V\Pengenalan Platform Khusus V-Pak Faishal Al Huda\Koding\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.exe
+F:\AKADEMIK\KULIAH\SEMESTER V\Pengenalan Platform Khusus V-Pak Faishal Al Huda\Koding\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.pdb
+F:\AKADEMIK\KULIAH\SEMESTER V\Pengenalan Platform Khusus V-Pak Faishal Al Huda\Koding\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.fUtama.resources
+F:\AKADEMIK\KULIAH\SEMESTER V\Pengenalan Platform Khusus V-Pak Faishal Al Huda\Koding\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.fTambahBuku.resources
+F:\AKADEMIK\KULIAH\SEMESTER V\Pengenalan Platform Khusus V-Pak Faishal Al Huda\Koding\PeminjamanBuku\PeminjamanBuku\bin\Debug\MySql.Data.dll
+F:\AKADEMIK\KULIAH\SEMESTER V\Pengenalan Platform Khusus V-Pak Faishal Al Huda\Koding\PeminjamanBuku\PeminjamanBuku\bin\Debug\MySql.Data.xml
+D:\Andrii\Data Informatika\Materi\New folder\SEMESTER 5\PPK\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\bin\Debug\PeminjamanBuku.exe.config
+D:\Andrii\Data Informatika\Materi\New folder\SEMESTER 5\PPK\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\bin\Debug\PeminjamanBuku.exe
+D:\Andrii\Data Informatika\Materi\New folder\SEMESTER 5\PPK\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\bin\Debug\PeminjamanBuku.pdb
+D:\Andrii\Data Informatika\Materi\New folder\SEMESTER 5\PPK\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\bin\Debug\MySql.Data.dll
+D:\Andrii\Data Informatika\Materi\New folder\SEMESTER 5\PPK\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\bin\Debug\MySql.Data.xml
+D:\Andrii\Data Informatika\Materi\New folder\SEMESTER 5\PPK\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.csprojResolveAssemblyReference.cache
+D:\Andrii\Data Informatika\Materi\New folder\SEMESTER 5\PPK\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.fUtama.resources
+D:\Andrii\Data Informatika\Materi\New folder\SEMESTER 5\PPK\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.fTambahBuku.resources
+D:\Andrii\Data Informatika\Materi\New folder\SEMESTER 5\PPK\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.Properties.Resources.resources
+D:\Andrii\Data Informatika\Materi\New folder\SEMESTER 5\PPK\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.csproj.GenerateResource.Cache
+D:\Andrii\Data Informatika\Materi\New folder\SEMESTER 5\PPK\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.csproj.CoreCompileInputs.cache
+D:\Andrii\Data Informatika\Materi\New folder\SEMESTER 5\PPK\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.exe
+D:\Andrii\Data Informatika\Materi\New folder\SEMESTER 5\PPK\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.pdb
+D:\Andrii\Data Informatika\Materi\New folder\SEMESTER 5\PPK\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.FormPeminjaman.resources
+D:\Andrii\Data Informatika\Materi\New folder\SEMESTER 5\PPK\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.Form3.resources
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER V\PPK V-Pak Faishal Al Huda\Project Peminjaman Buku\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.csprojResolveAssemblyReference.cache
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER V\PPK V-Pak Faishal Al Huda\Project Peminjaman Buku\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.fUtama.resources
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER V\PPK V-Pak Faishal Al Huda\Project Peminjaman Buku\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.fTambahBuku.resources
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER V\PPK V-Pak Faishal Al Huda\Project Peminjaman Buku\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.Form3.resources
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER V\PPK V-Pak Faishal Al Huda\Project Peminjaman Buku\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.FormPeminjaman.resources
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER V\PPK V-Pak Faishal Al Huda\Project Peminjaman Buku\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.Properties.Resources.resources
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER V\PPK V-Pak Faishal Al Huda\Project Peminjaman Buku\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.csproj.GenerateResource.Cache
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER V\PPK V-Pak Faishal Al Huda\Project Peminjaman Buku\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.csproj.CoreCompileInputs.cache
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER V\PPK V-Pak Faishal Al Huda\Project Peminjaman Buku\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.exe
+F:\KULIAH\AKADEMIK\KULIAH\SEMESTER V\PPK V-Pak Faishal Al Huda\Project Peminjaman Buku\PeminjamanBuku v1.1\PeminjamanBuku\PeminjamanBuku\obj\Debug\PeminjamanBuku.pdb
